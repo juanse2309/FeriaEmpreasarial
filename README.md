@@ -31,3 +31,25 @@ Este proyecto implementa un sistema para la gestión de una feria empresarial, p
 
 ## Autor
 Juan Sebastian Novoa
+
+## Pruebas de Ejecución
+A continuación se presenta una salida de ejemplo de la ejecución del programa:
+
+```text
+Empresa Tech Solutions registrada en el stand 101
+Empresa EcoFoods registrada en el stand 102
+Visitante registered: Juan Perez
+Visitante registered: Maria Gomez
+Comentario agregado al stand 101 por Juan Perez
+Comentario agregado al stand 101 por Maria Gomez
+Comentario agregado al stand 102 por Juan Perez
+
+--- Reporte de Stands ---
+Stand 101: Tech Solutions (2 comentarios)
+Stand 102: EcoFoods (1 comentarios)
+
+--- Comentarios para Stand 101 ---
+[5*] Excelente innovacion! - Juan Perez
+[4*] Muy interesante. - Maria Gomez
+```
+
